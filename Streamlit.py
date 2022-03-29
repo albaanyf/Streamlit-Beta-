@@ -1,7 +1,6 @@
 import streamlit as st
 
 st.write("""
-# Adakah Nongkrong Sebentar
+# This is my First Page
 
-
-Bersama tedi the tedwong """)
+Hello, Whatsup! """)
