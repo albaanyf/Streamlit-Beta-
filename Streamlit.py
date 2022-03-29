@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.write("""
-# SAYA PANDAWA
+# SAYA PANDAWA NYA MAKASSAR
 
 
 Adakah TANTA! AWOKAOKAWOKOWAKOAWOKAWOKO""")
