@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.write("""
-# SAYA PANDAWA NYA MAKASSAR :((
+# Hello Len
 
 
-Adakah TANTA! AWOKAOKAWOKOWAKOAWOKAWOKO""")
+Have a nice day!""")
