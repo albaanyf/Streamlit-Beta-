@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.write("""
-# Hello Len
+# Adakah Nongkrong Sebentar
 
 
-Have a nice day!""")
+Bersama tedi the tedwong """)
